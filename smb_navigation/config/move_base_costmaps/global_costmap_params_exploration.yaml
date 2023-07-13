@@ -46,7 +46,7 @@ global_costmap:
     enabled: true
     observation_sources: laser_scan_sensor
     cost_scaling_factor: 1.0
-    inflation_radius: 0.4
+    inflation_radius: 0.2
 
   static_layer:
     map_topic: /map

@@ -39,5 +39,5 @@ local_costmap:
   inflation_layer:
     enabled: true
     observation_sources: laser_scan_sensor
-    inflation_radius: 0.4
+    inflation_radius: 0.1
     cost_scaling_factor: 1.0
